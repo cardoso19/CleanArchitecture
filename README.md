@@ -11,10 +11,10 @@ Please make sure to update tests as appropriate.
 
 ## Execute
 
-# ADD
+### ADD
 make install_templates
 
-# REMOVE
+### REMOVE
 make uninstall_templates
 
 ## License
