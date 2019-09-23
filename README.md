@@ -11,11 +11,11 @@ Please make sure to update tests as appropriate.
 
 ## Execute
 
--ADD
-### make install_templates
+# ADD
+make install_templates
 
--REMOVE
-### make uninstall_templates
+# REMOVE
+make uninstall_templates
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
