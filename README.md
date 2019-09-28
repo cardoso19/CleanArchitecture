@@ -7,15 +7,17 @@ This repository contains templates to clean architectures.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+## Installing and removing the template
 
-## Execute
+###Install
 
-### ADD
-make install_templates
+To install into your Xcode just execute the command below on your terminal and after that, the template will be added on your Xcode:
+```make install_templates```
 
-### REMOVE
-make uninstall_templates
+### Remove
+
+To remove the template from Xcode files, execute the command below on terminal:
+```make uninstall_templates```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
