@@ -9,7 +9,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Installing and removing the template
 
-###Install
+### Install
 
 To install into your Xcode just execute the command below on your terminal and after that, the template will be added on your Xcode:
 
