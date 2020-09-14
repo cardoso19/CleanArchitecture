@@ -23,7 +23,7 @@ final class ___VARIABLE_sceneName___ViewController: UIViewController {
     
     @available(*, unavailable)
     required init?(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
+        fatalError("Method not implemented")
     }
     
     override func viewDidLoad() {

@@ -16,7 +16,7 @@
 			<key>Identifier</key>
 			<string>sceneName</string>
 			<key>Name</key>
-			<string>New Scene Name:</string>
+			<string>Router Name:</string>
 			<key>NotPersisted</key>
 			<true/>
 			<key>Required</key>
@@ -29,20 +29,6 @@
 			<string>___VARIABLE_sceneName:identifier___</string>
 			<key>Identifier</key>
 			<string>productName</string>
-			<key>Type</key>
-			<string>static</string>
-		</dict>
-		<dict>
-			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___Router</string>
-			<key>Description</key>
-			<string>The router name</string>
-			<key>Identifier</key>
-			<string>routerName</string>
-			<key>Name</key>
-			<string>Router Name:</string>
-			<key>Required</key>
-			<true/>
 			<key>Type</key>
 			<string>static</string>
 		</dict>

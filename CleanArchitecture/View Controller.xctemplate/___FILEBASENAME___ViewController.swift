@@ -11,6 +11,9 @@ import UIKit
 protocol ___VARIABLE_sceneName___Display: AnyObject {
 }
 
+private enum Layout {
+}
+
 final class ___VARIABLE_sceneName___ViewController: UIViewController {
     // MARK: - Variables
     private let interactor: ___VARIABLE_sceneName___Interacting
@@ -23,7 +26,7 @@ final class ___VARIABLE_sceneName___ViewController: UIViewController {
     
     @available(*, unavailable)
     required init?(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
+        fatalError("Method not implemented")
     }
     
     override func viewDidLoad() {

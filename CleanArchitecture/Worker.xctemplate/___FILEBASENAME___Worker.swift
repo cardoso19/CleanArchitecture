@@ -14,7 +14,7 @@ protocol ___VARIABLE_sceneName___Working {
 final class ___VARIABLE_sceneName___Worker {
     private let queue: DispatchQueue
     
-    init(queue: DispatchQueue = .mainQueue) {
+    init(queue: DispatchQueue = .main) {
         self.queue = queue
     }
 }

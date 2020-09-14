@@ -13,7 +13,7 @@ protocol ___VARIABLE_sceneName___Routing {
 
 final class ___VARIABLE_sceneName___Router {
     // MARK: - Variables
-    weak var viewController: UIViewController
+    weak var viewController: UIViewController?
 }
 // MARK: - ___VARIABLE_sceneName___Routing
 extension ___VARIABLE_sceneName___Router: ___VARIABLE_sceneName___Routing {

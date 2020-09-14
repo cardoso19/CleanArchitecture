@@ -12,9 +12,11 @@ protocol ___VARIABLE_sceneName___Working {
 }
 
 final class ___VARIABLE_sceneName___Worker {
+    // MARK: - Variables
     private let queue: DispatchQueue
     
-    init(queue: DispatchQueue = .mainQueue) {
+    // MARK: - Life Cycle
+    init(queue: DispatchQueue = .main) {
         self.queue = queue
     }
 }

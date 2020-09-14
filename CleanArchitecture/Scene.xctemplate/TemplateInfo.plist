@@ -43,12 +43,14 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_moduleName:identifier___</string>
+			<string>___VARIABLE_sceneName:identifier___</string>
 			<key>Identifier</key>
 			<string>productName</string>
 			<key>Type</key>
 			<string>static</string>
 		</dict>
 	</array>
+	<key>SortOrder</key>
+	<string>0</string>
 </dict>
 </plist>

@@ -16,7 +16,7 @@
 			<key>Identifier</key>
 			<string>sceneName</string>
 			<key>Name</key>
-			<string>New Scene Name:</string>
+			<string>ViewController Name:</string>
 			<key>NotPersisted</key>
 			<true/>
 			<key>Required</key>
@@ -31,42 +31,6 @@
 			<string>productName</string>
 			<key>Type</key>
 			<string>static</string>
-		</dict>
-		<dict>
-			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___ViewController</string>
-			<key>Description</key>
-			<string>The view controller name</string>
-			<key>Identifier</key>
-			<string>viewControllerName</string>
-			<key>Name</key>
-			<string>View Controller Name:</string>
-			<key>Required</key>
-			<true/>
-			<key>Type</key>
-			<string>static</string>
-		</dict>
-		<dict>
-			<key>Default</key>
-			<string>UIViewController</string>
-			<key>Description</key>
-			<string>What view controller class to subclass for the new scene</string>
-			<key>FallbackHeader</key>
-			<string>#import &lt;UIKit/UIKit.h&gt;</string>
-			<key>Identifier</key>
-			<string>viewControllerSubclass</string>
-			<key>Name</key>
-			<string>Subclass of:</string>
-			<key>NotPersisted</key>
-			<true/>
-			<key>Required</key>
-			<string>YES</string>
-			<key>Type</key>
-			<string>class</string>
-			<key>Values</key>
-			<array>
-				<string>UIViewController</string>
-			</array>
 		</dict>
 	</array>
 	<key>Platforms</key>
