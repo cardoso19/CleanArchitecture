@@ -11,7 +11,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ### Install
 
-To install into your Xcode just execute the command below on your terminal and after that, the template will be added on your Xcode:
+To install into your Xcode, execute the command below on your terminal, then the template will be added on your Xcode:
 
 ```make install_templates```
 
